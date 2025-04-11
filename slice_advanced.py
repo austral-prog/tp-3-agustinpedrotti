@@ -1,7 +1,7 @@
 def slice_advanced():
     # Código a implementar utilizando input.
     texto = input()
-    print (texto[4::2]
+    print (texto[4::2])
 
     
 
